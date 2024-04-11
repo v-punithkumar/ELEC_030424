@@ -1,0 +1,24 @@
+Objective 3 - Maximum Demand Day Analysis:
+
+Calculate and display the day with the maximum Demand for the selected state.
+Plot a bar chart showing Demand for each day of the week.
+Objective 4 - Comparison of Models:
+
+Implement ARIMA, LSTM, SARIMA, and RNN models.
+Plot graphs showing the performance comparison (e.g., RMSE) of each model.
+Objective 5 - Per Capita Demand Analysis:
+
+Integrate population data with electricity Demand data.
+Calculate and display per capita Demand.
+Plot a bar chart to compare per capita Demand among states.
+Objective 6 - Peak Demand Analysis:
+
+Analyze Demand trends over time to identify peak demand periods.
+Plot graphs to show Demand patterns across different states.
+
+
+Objective 1 and 2 - State-wise Electricity Demand Analysis and Prediction:
+
+Add a bar chart to display state-wise electricity Demand.
+Enable interaction: When a specific state is clicked, predict and plot one month, three months, and one year ahead Demand.
+Implement prediction using ARIMA model.
